@@ -1,0 +1,93 @@
+.error
+{
+color:red;
+}
+.main-container
+{
+width:90hw;
+height:auto;
+border:0px solid white;
+}
+.header
+{
+margin:5px;
+width:90hw;
+height:60px;
+border:0px solid black;
+}
+.logo
+{
+float:left;
+}
+.brand-name
+{
+margin-top:9px;
+margin-bottom:9px;
+font-size:20pt;
+float:left;
+}
+.content
+{
+width:90hw;
+height:62vh;
+margin:0px;
+border:0px solid white;
+background-color:white;
+}
+.contentoflp
+{
+width:90hw;
+height:50vh;
+margin:0px;
+border:1px solid white;
+background-color:white;
+
+}
+.content-left-panel
+{
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+margin-top:0px;
+height:65vh;
+margin:0px;
+float:left;
+padding:0px;
+border:0px solid black;
+background-color:#C8C8C8;
+}
+.content-right-panel
+{
+height:65vh;
+margin-left:90px;
+margin-right:auto;
+margin-bottom:0px;
+margin-top:0px;
+padding:0px;
+border:0px solid black;
+overflow:scroll;
+background-color:#B0B0B0;
+width:90hw;
+}
+.footer
+{
+width:90hw;
+height:auto;
+margin:5px;
+text-align:center;
+border:0px solid white;
+}
+.loginForm
+{
+background-color:#C2CACF;
+width:25%;
+margin:0 auto;
+padding:20px;
+border:3px solid black;
+}
+.username
+{
+float:center;
+margin-right:10px;
+margin-top:5px;
+}
