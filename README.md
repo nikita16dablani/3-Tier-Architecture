@@ -1,0 +1,2 @@
+# 3-Tier-Architecture
+3-TIER ARCHITECTURE is an application that has three logical and physical computing tiers or layers.This application can be used to record and manage detail profiles of each employee working in a  company or organization with information such as their designation, employee id, date of birth, base salary, pan card number, Aadhaar card number and many more. Tools and Technology used:- Java, J2EE
